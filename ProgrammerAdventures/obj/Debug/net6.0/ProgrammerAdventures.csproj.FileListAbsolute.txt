@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\bin\Debug\net6.0\ProgrammerAdventures.exe
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\bin\Debug\net6.0\ProgrammerAdventures.deps.json
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\bin\Debug\net6.0\ProgrammerAdventures.runtimeconfig.json
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\bin\Debug\net6.0\ProgrammerAdventures.dll
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\bin\Debug\net6.0\ProgrammerAdventures.pdb
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ProgrammerAdventures.csproj.AssemblyReference.cache
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ProgrammerAdventures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ProgrammerAdventures.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ProgrammerAdventures.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ProgrammerAdventures.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ProgrammerAdventures.dll
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\refint\ProgrammerAdventures.dll
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ProgrammerAdventures.pdb
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ProgrammerAdventures.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Programowanie\dotNET\ProgrammerAdventures\ProgrammerAdventures\ProgrammerAdventures\obj\Debug\net6.0\ref\ProgrammerAdventures.dll
